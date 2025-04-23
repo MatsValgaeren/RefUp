@@ -2,6 +2,8 @@
 
 *A tool to (auto) update references in your Maya file.*
 
+*Watch Here: [YouTube Video](https://youtu.be/Bs3TtzVg9mM)!*
+
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -19,6 +21,10 @@
 ```
 Documents/maya/<version>/scripts/
 ```
+4. Copy the settings.json file in (you need to make the folder yourself):
+```
+Documents/maya/<version>/prefs/RefUp
+```
 3. In Maya, open the Script Editor and run:
 ```
 import RefUp
@@ -28,7 +34,9 @@ RefUp.show_ui()
 
 ## Usage
 
-![fSync UI in Maya](https://github.com/user-attachments/assets/cc538fbe-fecc-4ecf-a57b-4449d4437c73)
+![RefUp_ui_002_v001 png](https://github.com/user-attachments/assets/6fedf1d7-4bd8-4e76-ac7b-167d5aaef8d8)
+![RefUp_ui_001_v001](https://github.com/user-attachments/assets/eabfb695-5cff-494d-be91-a5e0cd9aab59)
+
 
 1. **Run the RefUp in Maya** to open the UI.
 2. **Select your working directory** containing referenced assets in the settings tab.
@@ -38,7 +46,8 @@ RefUp.show_ui()
 6. (Optional) Select files you want auto update on start-up in the settings tab.
 
 
-**Watch the Demo here:** [YouTube Video](soon)
+**Watch the Demo here:** [YouTube Video](https://youtu.be/Bs3TtzVg9mM)!
+
 
 ## Requirements
 

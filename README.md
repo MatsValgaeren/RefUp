@@ -14,15 +14,14 @@
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-  - [Prerequisites](#prerequisites-common-to-all-setups)
-  - [Standalone App (Windows)](#standalone-app-windows)
-  - [Python Script](#python-script)
+  - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap & Contributing](#roadmap--contributing)
 - [Credits](#credits)
 - [License](#license)
 
 </details>
+
 
 ## About
 
@@ -37,9 +36,8 @@ A tool to (auto) update references in your Maya file.
 -   **Reference Version Selection:** See versions of each reference and select which version to use for every reference in your scene.
 -   **Auto-Update:** Enable auto-update for specific references to always use the latest available version on scene startup.
 
-## Installation
 
-### Maya Python Script
+## Installation
 
 #### Requirements
 
@@ -63,6 +61,7 @@ import RefUp
 RefUp.show_ui()
 ```
 
+
 ## Usage
 
 ![RefUp_ui_002_v001 png](https://github.com/user-attachments/assets/6fedf1d7-4bd8-4e76-ac7b-167d5aaef8d8)
@@ -77,17 +76,20 @@ RefUp.show_ui()
 
 ***Watch the Demo here: [YouTube Video](https://youtu.be/SPfN98WdyZ4)***
 
+
 ## Roadmap & Contributing
 
 See the [open issues](https://github.com/MatsValgaeren/FrameForge/issues) to track planned features, known bugs, and ongoing work.
 
 If you encounter any bugs or have feature requests, please submit them as new issues there.  Your feedback and contributions help improve RefUp!
 
+
 ## Credits
 
 -   Script by Mats Valgaeren
 -   Powered by:
     -   [PyQt6](https://pypi.org/project/PyQt6/)
+
 
 ## License
 

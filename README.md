@@ -12,7 +12,7 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-  - [Features](#features)
+- [Features](#features)
 - [Installation](#installation)
   - [Requirements](#requirements)
   - [Maya Scipt Setup](#maya-scipt-setup)

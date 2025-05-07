@@ -32,9 +32,9 @@ A tool to (auto) update references in your Maya file.
 
 ## Features
 
--   **Directory Scan:** Choose a directory and automatically scan for all available versions of referenced assets in your Maya scene.
--   **Reference Version Selection:** See versions of each reference and select which version to use for every reference in your scene.
--   **Auto-Update:** Enable auto-update for specific references to always use the latest available version on scene startup.
+- Scan a directory for all available versions of referenced assets in your Maya scene
+- View and select versions for each reference in your scene
+- Enable auto-update for specific references to always use the latest version on scene startup
 
 
 ## Installation

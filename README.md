@@ -15,7 +15,7 @@
 - [Features](#features)
 - [Installation](#installation)
   - [Requirements](#requirements)
-  - [Maya Scipt Setup](#maya-scipt-setup)
+  - [Maya Script Setup](#maya-script-setup)
 - [Usage](#usage)
 - [Roadmap & Contributing](#roadmap--contributing)
 - [Credits](#credits)
@@ -44,7 +44,7 @@ A tool to (auto) update references in your Maya file.
 
 -   Autodesk Maya (version 2025+)
 
-#### Maya Scipt Setup
+#### Maya Script Setup
 
 1.  Download or clone this repository.
 2.  Copy the RefUp and userSetup script file to your Maya scripts directory:
@@ -75,7 +75,7 @@ RefUp.show_ui()
 5. **Click "Update References"** to apply changes.
 6. (Optional) Select files you want auto update on start-up in the settings tab.
 
-***Watch the Demo here: [YouTube Video](https://youtu.be/SPfN98WdyZ4)***
+***Watch the Demo here: [YouTube Video](https://youtu.be/Bs3TtzVg9mM)***
 
 
 ## Roadmap & Contributing
